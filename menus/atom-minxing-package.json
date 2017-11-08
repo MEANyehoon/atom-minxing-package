@@ -186,7 +186,7 @@
     "menu": [{
         "label": "Packages",
         "submenu": [{
-            "label": "APICloud",
+            "label": "敏行",
             "submenu": [{
                     "label": "新建项目模板",
                     "submenu": [{

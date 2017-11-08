@@ -9,7 +9,7 @@
     "WiFi同步",
     "应用模板",
     "日志输出"],
-  "repository": "https://github.com/atom/mx",
+  "repository": "https://github.com/MEANyehoon/atom-minxing-package.git",
   "license": "GPL-3.0",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

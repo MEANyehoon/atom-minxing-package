@@ -1,0 +1,29 @@
+{
+  "name": "atom-minxing-package",
+  "main": "./lib/mx",
+  "version": "0.1.0",
+  "description": "适用于Minxing开发平台的开发工具,包含创建应用模板,WiFi真机同步,日志输出等功能",
+  "keywords": [
+    "Minxing",
+    "真机调试",
+    "WiFi同步",
+    "应用模板",
+    "日志输出"],
+  "repository": "https://github.com/atom/mx",
+  "license": "GPL-3.0",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "minxing-tools-core": "^1.0.0"
+  },
+  "configSchema": {
+    "minxingServerUrl": {
+      "title": "配置应用上传的服务器地址",
+      "description": "请填写完整路径",
+      "type": "string",
+      "default": "http://www.minxing365.com",
+      "order": 1
+    }
+  }
+}

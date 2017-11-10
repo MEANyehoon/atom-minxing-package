@@ -17,7 +17,7 @@
   },
   "dependencies": {
     "minxing-tools-core": "^1.0.0",
-    "lodash": "^4.17.4"
+    "underscore": "^1.8.3"
   },
   "configSchema": {
     "minxingServerUrl": {

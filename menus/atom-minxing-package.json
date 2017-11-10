@@ -41,6 +41,10 @@
                             {
                                 "label": "红包测试",
                                 "command": "minxing:initApp,type=html5,template=JIANHANG_HONGBAO"
+                            },
+                            {
+                                "label": "www_all",
+                                "command": "minxing:initApp,type=html5,template=www_all"
                             }
                         ]
                     }]
@@ -222,6 +226,10 @@
                             {
                                 "label": "红包测试",
                                 "command": "minxing:initApp,type=html5,template=JIANHANG_HONGBAO"
+                            },
+                            {
+                                "label": "www_all",
+                                "command": "minxing:initApp,type=html5,template=www_all"
                             }
                         ]
                     }]

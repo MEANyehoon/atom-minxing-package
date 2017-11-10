@@ -9,38 +9,38 @@
                         "label": "APICloud",
                         "submenu": [{
                                 "label": "空白应用",
-                                "command": "apicloud:initApp,type=APICloud,template=default"
+                                "command": "minxing:initApp,type=APICloud,template=default"
                             },
                             {
                                 "label": "底部导航",
-                                "command": "apicloud:initApp,type=APICloud,template=bottom"
+                                "command": "minxing:initApp,type=APICloud,template=bottom"
                             },
                             {
                                 "label": "首页导航",
-                                "command": "apicloud:initApp,type=APICloud,template=home"
+                                "command": "minxing:initApp,type=APICloud,template=home"
                             },
                             {
                                 "label": "侧边导航",
-                                "command": "apicloud:initApp,type=APICloud,template=slide"
+                                "command": "minxing:initApp,type=APICloud,template=slide"
                             },
                             {
                                 "label": "测试模版",
-                                "command": "apicloud:initApp,type=APICloud,template=test"
+                                "command": "minxing:initApp,type=APICloud,template=test"
                             }
                         ]
                     }, {
                         "label": "H5",
                         "submenu": [{
                                 "label": "H5测试1",
-                                "command": "apicloud:initApp,type=html5,template=h5test-1"
+                                "command": "minxing:initApp,type=html5,template=h5test-1"
                             },
                             {
                                 "label": "H5测试2",
-                                "command": "apicloud:initApp,type=html5,template=h5test-2"
+                                "command": "minxing:initApp,type=html5,template=h5test-2"
                             },
                             {
-                                "label": "审批测试",
-                                "command": "apicloud:initApp,type=html5,template=shenpi-test"
+                                "label": "红包测试",
+                                "command": "minxing:initApp,type=html5,template=JIANHANG_HONGBAO"
                             }
                         ]
                     }]
@@ -50,132 +50,132 @@
                     "label": "新建页面框架",
                     "submenu": [{
                             "label": "page001",
-                            "command": "apicloud:addFileTemplate,template=page001"
+                            "command": "minxing:addFileTemplate,template=page001"
                         },
                         {
                             "label": "page002",
-                            "command": "apicloud:addFileTemplate,template=page002"
+                            "command": "minxing:addFileTemplate,template=page002"
                         },
                         {
                             "label": "page003",
-                            "command": "apicloud:addFileTemplate,template=page003"
+                            "command": "minxing:addFileTemplate,template=page003"
                         },
                         {
                             "label": "page004",
-                            "command": "apicloud:addFileTemplate,template=page004"
+                            "command": "minxing:addFileTemplate,template=page004"
                         },
                         {
                             "label": "page005",
-                            "command": "apicloud:addFileTemplate,template=page005"
+                            "command": "minxing:addFileTemplate,template=page005"
                         },
                         {
                             "label": "page006",
-                            "command": "apicloud:addFileTemplate,template=page006"
+                            "command": "minxing:addFileTemplate,template=page006"
                         },
                         {
                             "label": "page007",
-                            "command": "apicloud:addFileTemplate,template=page007"
+                            "command": "minxing:addFileTemplate,template=page007"
                         },
                         {
                             "label": "page008",
-                            "command": "apicloud:addFileTemplate,template=page008"
+                            "command": "minxing:addFileTemplate,template=page008"
                         },
                         {
                             "label": "page009",
-                            "command": "apicloud:addFileTemplate,template=page009"
+                            "command": "minxing:addFileTemplate,template=page009"
                         },
                         {
                             "label": "page010",
-                            "command": "apicloud:addFileTemplate,template=page010"
+                            "command": "minxing:addFileTemplate,template=page010"
                         },
                         {
                             "label": "page011",
-                            "command": "apicloud:addFileTemplate,template=page011"
+                            "command": "minxing:addFileTemplate,template=page011"
                         },
                         {
                             "label": "page012",
-                            "command": "apicloud:addFileTemplate,template=page012"
+                            "command": "minxing:addFileTemplate,template=page012"
                         },
                         {
                             "label": "page013",
-                            "command": "apicloud:addFileTemplate,template=page013"
+                            "command": "minxing:addFileTemplate,template=page013"
                         },
                         {
                             "label": "page014",
-                            "command": "apicloud:addFileTemplate,template=page014"
+                            "command": "minxing:addFileTemplate,template=page014"
                         },
                         {
                             "label": "page015",
-                            "command": "apicloud:addFileTemplate,template=page015"
+                            "command": "minxing:addFileTemplate,template=page015"
                         },
                         {
                             "label": "page016",
-                            "command": "apicloud:addFileTemplate,template=page016"
+                            "command": "minxing:addFileTemplate,template=page016"
                         },
                         {
                             "label": "page017",
-                            "command": "apicloud:addFileTemplate,template=page017"
+                            "command": "minxing:addFileTemplate,template=page017"
                         },
                         {
                             "label": "page018",
-                            "command": "apicloud:addFileTemplate,template=page018"
+                            "command": "minxing:addFileTemplate,template=page018"
                         },
                         {
                             "label": "page019",
-                            "command": "apicloud:addFileTemplate,template=page019"
+                            "command": "minxing:addFileTemplate,template=page019"
                         },
                         {
                             "label": "page020",
-                            "command": "apicloud:addFileTemplate,template=page020"
+                            "command": "minxing:addFileTemplate,template=page020"
                         },
                         {
                             "label": "page021",
-                            "command": "apicloud:addFileTemplate,template=page021"
+                            "command": "minxing:addFileTemplate,template=page021"
                         },
                         {
                             "label": "page022",
-                            "command": "apicloud:addFileTemplate,template=page022"
+                            "command": "minxing:addFileTemplate,template=page022"
                         },
                         {
                             "label": "page023",
-                            "command": "apicloud:addFileTemplate,template=page023"
+                            "command": "minxing:addFileTemplate,template=page023"
                         },
                         {
                             "label": "page024",
-                            "command": "apicloud:addFileTemplate,template=page024"
+                            "command": "minxing:addFileTemplate,template=page024"
                         },
                         {
                             "label": "page025",
-                            "command": "apicloud:addFileTemplate,template=page025"
+                            "command": "minxing:addFileTemplate,template=page025"
                         },
                         {
                             "label": "page026",
-                            "command": "apicloud:addFileTemplate,template=page026"
+                            "command": "minxing:addFileTemplate,template=page026"
                         }
                     ]
                 }, {
                     "label": "打包",
-                    "command": "apicloud:buildToMinxing"
+                    "command": "minxing:buildToMinxing"
                 },
                 {
                     "label": "wifi页面预览(ctrl-o)",
-                    "command": "apicloud:previewWifi"
+                    "command": "minxing:previewWifi"
                 },
                 {
                     "label": "wifi增量同步(ctrl-i)",
-                    "command": "apicloud:syncWifi"
+                    "command": "minxing:syncWifi"
                 },
                 {
                     "label": "wifi 全量同步",
-                    "command": "apicloud:syncAllWifi"
+                    "command": "minxing:syncAllWifi"
                 },
                 {
                     "label": "查看 App日志",
-                    "command": "apicloud:wifiLog"
+                    "command": "minxing:wifiLog"
                 },
                 {
                     "label": "查看ip与端口",
-                    "command": "apicloud:wifiInfo"
+                    "command": "minxing:wifiInfo"
                 }]
             }
         ]
@@ -190,38 +190,38 @@
                         "label": "APICloud",
                         "submenu": [{
                                 "label": "空白应用",
-                                "command": "apicloud:initApp,type=APICloud,template=default"
+                                "command": "minxing:initApp,type=APICloud,template=default"
                             },
                             {
                                 "label": "底部导航",
-                                "command": "apicloud:initApp,type=APICloud,template=bottom"
+                                "command": "minxing:initApp,type=APICloud,template=bottom"
                             },
                             {
                                 "label": "首页导航",
-                                "command": "apicloud:initApp,type=APICloud,template=home"
+                                "command": "minxing:initApp,type=APICloud,template=home"
                             },
                             {
                                 "label": "侧边导航",
-                                "command": "apicloud:initApp,type=APICloud,template=slide"
+                                "command": "minxing:initApp,type=APICloud,template=slide"
                             },
                             {
                                 "label": "测试模版",
-                                "command": "apicloud:initApp,type=APICloud,template=test"
+                                "command": "minxing:initApp,type=APICloud,template=test"
                             }
                         ]
                     }, {
                         "label": "H5",
                         "submenu": [{
                                 "label": "H5测试1",
-                                "command": "apicloud:initApp,type=html5,template=h5test-1"
+                                "command": "minxing:initApp,type=html5,template=h5test-1"
                             },
                             {
                                 "label": "H5测试2",
-                                "command": "apicloud:initApp,type=html5,template=h5test-2"
+                                "command": "minxing:initApp,type=html5,template=h5test-2"
                             },
                             {
-                                "label": "审批测试",
-                                "command": "apicloud:initApp,type=html5,template=shenpi-test"
+                                "label": "红包测试",
+                                "command": "minxing:initApp,type=html5,template=JIANHANG_HONGBAO"
                             }
                         ]
                     }]
@@ -231,132 +231,132 @@
                     "label": "新建页面框架",
                     "submenu": [{
                             "label": "page001",
-                            "command": "apicloud:addFileTemplate,template=page001"
+                            "command": "minxing:addFileTemplate,template=page001"
                         },
                         {
                             "label": "page002",
-                            "command": "apicloud:addFileTemplate,template=page002"
+                            "command": "minxing:addFileTemplate,template=page002"
                         },
                         {
                             "label": "page003",
-                            "command": "apicloud:addFileTemplate,template=page003"
+                            "command": "minxing:addFileTemplate,template=page003"
                         },
                         {
                             "label": "page004",
-                            "command": "apicloud:addFileTemplate,template=page004"
+                            "command": "minxing:addFileTemplate,template=page004"
                         },
                         {
                             "label": "page005",
-                            "command": "apicloud:addFileTemplate,template=page005"
+                            "command": "minxing:addFileTemplate,template=page005"
                         },
                         {
                             "label": "page006",
-                            "command": "apicloud:addFileTemplate,template=page006"
+                            "command": "minxing:addFileTemplate,template=page006"
                         },
                         {
                             "label": "page007",
-                            "command": "apicloud:addFileTemplate,template=page007"
+                            "command": "minxing:addFileTemplate,template=page007"
                         },
                         {
                             "label": "page008",
-                            "command": "apicloud:addFileTemplate,template=page008"
+                            "command": "minxing:addFileTemplate,template=page008"
                         },
                         {
                             "label": "page009",
-                            "command": "apicloud:addFileTemplate,template=page009"
+                            "command": "minxing:addFileTemplate,template=page009"
                         },
                         {
                             "label": "page010",
-                            "command": "apicloud:addFileTemplate,template=page010"
+                            "command": "minxing:addFileTemplate,template=page010"
                         },
                         {
                             "label": "page011",
-                            "command": "apicloud:addFileTemplate,template=page011"
+                            "command": "minxing:addFileTemplate,template=page011"
                         },
                         {
                             "label": "page012",
-                            "command": "apicloud:addFileTemplate,template=page012"
+                            "command": "minxing:addFileTemplate,template=page012"
                         },
                         {
                             "label": "page013",
-                            "command": "apicloud:addFileTemplate,template=page013"
+                            "command": "minxing:addFileTemplate,template=page013"
                         },
                         {
                             "label": "page014",
-                            "command": "apicloud:addFileTemplate,template=page014"
+                            "command": "minxing:addFileTemplate,template=page014"
                         },
                         {
                             "label": "page015",
-                            "command": "apicloud:addFileTemplate,template=page015"
+                            "command": "minxing:addFileTemplate,template=page015"
                         },
                         {
                             "label": "page016",
-                            "command": "apicloud:addFileTemplate,template=page016"
+                            "command": "minxing:addFileTemplate,template=page016"
                         },
                         {
                             "label": "page017",
-                            "command": "apicloud:addFileTemplate,template=page017"
+                            "command": "minxing:addFileTemplate,template=page017"
                         },
                         {
                             "label": "page018",
-                            "command": "apicloud:addFileTemplate,template=page018"
+                            "command": "minxing:addFileTemplate,template=page018"
                         },
                         {
                             "label": "page019",
-                            "command": "apicloud:addFileTemplate,template=page019"
+                            "command": "minxing:addFileTemplate,template=page019"
                         },
                         {
                             "label": "page020",
-                            "command": "apicloud:addFileTemplate,template=page020"
+                            "command": "minxing:addFileTemplate,template=page020"
                         },
                         {
                             "label": "page021",
-                            "command": "apicloud:addFileTemplate,template=page021"
+                            "command": "minxing:addFileTemplate,template=page021"
                         },
                         {
                             "label": "page022",
-                            "command": "apicloud:addFileTemplate,template=page022"
+                            "command": "minxing:addFileTemplate,template=page022"
                         },
                         {
                             "label": "page023",
-                            "command": "apicloud:addFileTemplate,template=page023"
+                            "command": "minxing:addFileTemplate,template=page023"
                         },
                         {
                             "label": "page024",
-                            "command": "apicloud:addFileTemplate,template=page024"
+                            "command": "minxing:addFileTemplate,template=page024"
                         },
                         {
                             "label": "page025",
-                            "command": "apicloud:addFileTemplate,template=page025"
+                            "command": "minxing:addFileTemplate,template=page025"
                         },
                         {
                             "label": "page026",
-                            "command": "apicloud:addFileTemplate,template=page026"
+                            "command": "minxing:addFileTemplate,template=page026"
                         }
                     ]
                 }, {
                     "label": "打包",
-                    "command": "apicloud:buildToMinxing"
+                    "command": "minxing:buildToMinxing"
                 },
                 {
                     "label": "wifi页面预览(ctrl-o)",
-                    "command": "apicloud:previewWifi"
+                    "command": "minxing:previewWifi"
                 },
                 {
                     "label": "wifi页面预览(ctrl-o)",
-                    "command": "apicloud:previewWifi"
+                    "command": "minxing:previewWifi"
                 },
                 {
                     "label": "wifi 全量同步",
-                    "command": "apicloud:syncAllWifi"
+                    "command": "minxing:syncAllWifi"
                 },
                 {
                     "label": "查看 App 日志",
-                    "command": "apicloud:wifiLog"
+                    "command": "minxing:wifiLog"
                 },
                 {
                     "label": "查看ip与端口",
-                    "command": "apicloud:wifiInfo"
+                    "command": "minxing:wifiInfo"
                 }
             ]
         }]

@@ -1,6 +1,35 @@
 {
     "context-menu": {
-        ".tree-view .file,.directory": [{
+        "atom-text-editor .lines": [{
+            "label": "敏行",
+            "submenu": [{
+                    "label": "打包",
+                    "command": "Minxing:buildToMinxing"
+                },
+                {
+                    "label": "wifi页面预览(ctrl-o)",
+                    "command": "Minxing:previewWifi"
+                },
+                {
+                    "label": "wifi增量同步(ctrl-i)",
+                    "command": "Minxing:syncWifi"
+                },
+                {
+                    "label": "wifi 全量同步",
+                    "command": "Minxing:syncAllWifi"
+                },
+                {
+                    "label": "查看 App日志",
+                    "command": "Minxing:wifiLog"
+                },
+                {
+                    "label": "查看ip与端口",
+                    "command": "Minxing:wifiInfo"
+                }
+            ]
+
+        }],
+        ".tree-view": [{
             "label": "敏行",
             "submenu": [{
                     "label": "新建项目模板",
@@ -48,6 +77,34 @@
                         ]
                     }]
 
+                },
+                {
+                    "label": "查看 App日志",
+                    "command": "Minxing:wifiLog"
+                },
+                {
+                    "label": "查看ip与端口",
+                    "command": "Minxing:wifiInfo"
+                }
+            ]
+        }],
+        ".tree-view .file,.directory": [{
+            "label": "敏行",
+            "submenu": [{
+                    "label": "打包",
+                    "command": "Minxing:buildToMinxing"
+                },
+                {
+                    "label": "wifi页面预览(ctrl-o)",
+                    "command": "Minxing:previewWifi"
+                },
+                {
+                    "label": "wifi增量同步(ctrl-i)",
+                    "command": "Minxing:syncWifi"
+                },
+                {
+                    "label": "wifi 全量同步",
+                    "command": "Minxing:syncAllWifi"
                 },
                 {
                     "label": "新建页面框架",
@@ -165,29 +222,6 @@
                             "command": "Minxing:addPageTemplate,type=html5,template=html5-test1"
                         }]
                     }]
-                }, {
-                    "label": "打包",
-                    "command": "Minxing:buildToMinxing"
-                },
-                {
-                    "label": "wifi页面预览(ctrl-o)",
-                    "command": "Minxing:previewWifi"
-                },
-                {
-                    "label": "wifi增量同步(ctrl-i)",
-                    "command": "Minxing:syncWifi"
-                },
-                {
-                    "label": "wifi 全量同步",
-                    "command": "Minxing:syncAllWifi"
-                },
-                {
-                    "label": "查看 App日志",
-                    "command": "Minxing:wifiLog"
-                },
-                {
-                    "label": "查看ip与端口",
-                    "command": "Minxing:wifiInfo"
                 }
             ]
         }]
@@ -242,7 +276,7 @@
                         ]
                     }]
 
-                },{
+                }, {
                     "label": "打包",
                     "command": "Minxing:buildToMinxing"
                 },
@@ -251,8 +285,8 @@
                     "command": "Minxing:previewWifi"
                 },
                 {
-                    "label": "wifi页面预览(ctrl-o)",
-                    "command": "Minxing:previewWifi"
+                    "label": "wifi增量同步(ctrl-i)",
+                    "command": "Minxing:syncWifi"
                 },
                 {
                     "label": "wifi 全量同步",

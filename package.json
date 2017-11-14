@@ -1,7 +1,7 @@
 {
   "name": "atom-minxing-package",
   "main": "./lib/atom-minxing-package",
-  "version": "0.2.8",
+  "version": "0.3.0",
   "description": "适用于Minxing开发平台的开发工具,包含创建应用模板,WiFi真机同步,日志输出等功能",
   "keywords": [
     "Minxing",
